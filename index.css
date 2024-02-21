@@ -1,0 +1,23 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #a4e4eb;
+        }
+        a {
+            color: hwb(129 8% 22%);
+            text-decoration: underline;
+        }
